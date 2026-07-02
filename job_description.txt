@@ -1,0 +1,28 @@
+We are looking for a Senior AI Engineer to join our founding team at Redrob AI (Series A AI-native talent platform).
+
+You will own the candidate ranking and retrieval infrastructure end-to-end.
+
+Responsibilities:
+- Audit and improve the current BM25 + rule-based candidate ranking system
+- Design and ship a hybrid retrieval system (dense embeddings + sparse BM25)
+- Build evaluation infrastructure to measure ranking quality continuously
+- Work closely with product and recruiter teams in a fast-paced startup environment
+
+Requirements:
+- 5-9 years of industry experience in ML/AI engineering
+- Production experience with embeddings, vector databases, and hybrid search
+- Strong Python engineering skills (FastAPI, Docker, CI/CD)
+- Experience with ranking evaluation metrics: NDCG, MRR, MAP
+- Built or maintained search, recommendation, or ranking systems in production
+- Experience deploying ML models to production (REST APIs, microservices)
+- Product company or startup background
+
+Nice to have:
+- LLM fine-tuning or instruction tuning experience
+- Learning-to-rank models (LambdaMART, XGBoost rank)
+- HR-tech or recruiting-tech domain experience
+- Open-source contributions
+- Distributed systems (Spark, Ray)
+
+Work mode: Hybrid (Bangalore/Pune preferred, open to remote for strong candidates)
+Company stage: Series A — founding engineering team
